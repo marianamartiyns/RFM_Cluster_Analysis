@@ -8,11 +8,11 @@ This project aims to analyze customer behavior and sales patterns in an e-commer
 
 ### > 🧩 Data preprocessing and analytical techniques
 
-- [x] **Data Cleaning**: Handling missing values, removing duplicates, correcting data types, and treating outliers.
-- [x] **Exploratory Analysis**: Data visualization with charts on countries with the highest sales value, best-selling products, sales volume per month, and customer base growth.
-- [x] **RFM Analysis**: Calculating Recency, Frequency, and Monetary value metrics for customer segmentation.  
-- [x] **Churn Analysis**: Identifying cancellation and customer retention patterns. 
-- [x] **Clustering**: Segmenting customers using techniques such as K-Means and PCA to understand different consumer profiles.
+- [x] `Data Cleaning`: Handling missing values, removing duplicates, correcting data types, and treating outliers.
+- [x] `Exploratory Analysis`: Data visualization with charts on countries with the highest sales value, best-selling products, sales volume per month, and customer base growth.
+- [x] `RFM Analysis`: Calculating Recency, Frequency, and Monetary value metrics for customer segmentation.  
+- [x] `Churn Analysis`: Identifying cancellation and customer retention patterns. 
+- [x] `Clustering`: Segmenting customers using techniques such as K-Means and PCA to understand different consumer profiles.
 
 > [!NOTE]  
 > The code descriptions are in Portuguese 🇧🇷, although the variables and code are in English.
